@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
@@ -23,3 +24,30 @@ Global
 		SolutionGuid = {912688AA-313F-4166-A64D-A8EE26381B37}
 	EndGlobalSection
 EndGlobal
+=======
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KubernetesUtil", "KubernetesUtil\KubernetesUtil.csproj", "{8DB87F15-888E-49AC-9DAD-CEAAB4620A9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DB87F15-888E-49AC-9DAD-CEAAB4620A9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DB87F15-888E-49AC-9DAD-CEAAB4620A9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DB87F15-888E-49AC-9DAD-CEAAB4620A9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DB87F15-888E-49AC-9DAD-CEAAB4620A9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {912688AA-313F-4166-A64D-A8EE26381B37}
+	EndGlobalSection
+EndGlobal
+>>>>>>> 30f2b9d39e0d55a2e228d486aee119ac8ddb61f4
